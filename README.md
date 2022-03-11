@@ -99,19 +99,19 @@ This text is ~~strikethrough~~
 
 ## Task Lists
 
-[x] Rolls Royce - Phantom
+* [x] Rolls Royce - Phantom
 
-[x] Rolls Royce - Cullinan
+* [x] Rolls Royce - Cullinan
 
-[x] Rolls Royce - Ghost
+* [x] Rolls Royce - Ghost
 
-[] Rolls Royce - Wraith
+* [] Rolls Royce - Wraith
 
-[] Rolls Royce - Dawn
+* [] Rolls Royce - Dawn
 
-[] Rolls Royce - Black Badge
+* [] Rolls Royce - Black Badge
 
-[x] Rolls Royce - Spectre
+* [x] Rolls Royce - Spectre
 
 ## Tables
 
@@ -126,16 +126,6 @@ This text is ~~strikethrough~~
 |:---       |   :---:  |        ---:|
 |Mercedes   |Maybach   |Marvelous   |  
 |Rolls Royce|Phantom   |Awesome     |
-
-## CSS Style
-
-<style>
-mark
-{
-    color:red;
-}
-</style>
-<mark>What is Markdown?</mark>
 
 ### Entities
 
