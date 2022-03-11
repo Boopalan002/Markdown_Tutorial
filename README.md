@@ -105,11 +105,11 @@ This text is ~~strikethrough~~
 
 * [x] Rolls Royce - Ghost
 
-* [] Rolls Royce - Wraith
+* [ ] Rolls Royce - Wraith
 
-* [] Rolls Royce - Dawn
+* [ ] Rolls Royce - Dawn
 
-* [] Rolls Royce - Black Badge
+* [ ] Rolls Royce - Black Badge
 
 * [x] Rolls Royce - Spectre
 
